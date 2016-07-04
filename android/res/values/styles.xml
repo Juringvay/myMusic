@@ -1,0 +1,10 @@
+<resources>
+<style name="Theme.AppStartLoad" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/logo1</item>
+    <item name="android:windowNoTitle">true</item>
+</style>
+<style name="Theme.AppStartLoadTranslucent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowNoTitle">true</item>
+</style>
+</resources>
