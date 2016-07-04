@@ -1,5 +1,7 @@
 #include "getsongreallink.h"
+
 const QString downLoadLinkUrl = "http://music.baidu.com/data/music/fmlink?type=mp3&rate=320&songIds=";
+
 GetSongRealLink::GetSongRealLink(QObject *parent) : QObject(parent)
 {
 
